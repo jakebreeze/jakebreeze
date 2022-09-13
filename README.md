@@ -2,7 +2,6 @@
 
 - 🤗 I’m interested in data analytics and finance
 
-- 🚀  I’m currently learning ML and algo-trading with Python
 
 <!---
 jakebreeze/jakebreeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
